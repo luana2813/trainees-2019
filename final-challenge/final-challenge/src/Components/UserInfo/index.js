@@ -48,10 +48,10 @@ class UserInfo extends Component {
           </div>
         </div>
 
-        <div className="">
+        {/* <div className="">
           <input />
           <button>Submit</button>
-        </div>
+        </div> */}
       </>
     )
   }

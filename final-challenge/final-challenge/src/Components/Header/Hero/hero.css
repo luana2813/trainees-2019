@@ -8,3 +8,9 @@
   flex-direction: column;
   padding-top: 60px; 
 }
+
+@media only screen and (max-width: 425px) {
+  .hero h1 {
+    flex-direction: column;
+  }
+}
