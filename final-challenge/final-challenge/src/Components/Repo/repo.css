@@ -1,0 +1,8 @@
+.repos {
+  margin-top: 60px;
+}
+.repo {
+  margin: 20px;
+  border-bottom: 1px solid #778899;
+  /* height: 100px; */
+}

@@ -1,0 +1,30 @@
+.user-info {
+  margin-top: 100px; 
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+}
+
+.user-info > div {
+  margin: 15px;
+}
+
+.user-info .user-detail {
+  margin: 140px 15px;
+}
+.profile-photo > div img {
+  border: 1px solid #778899; 
+  border-radius: 50%;
+}
+
+span a {
+  color: blue;
+  margin: 15px;
+}
+
+input {
+  margin: 30px;
+  align-content: center
+}
